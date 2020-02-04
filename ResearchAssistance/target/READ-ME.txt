@@ -1,0 +1,8 @@
+Install Java to Windows
+_Check if the computer has Java installed:
+1.Open Command Prompt in Windows by pressing (Win key + R) combination, then input 'cmd' in the 'Open'
+2.Type 'java -version' in the Command Prompt, then Enter
+3.It will show if Java SE Runtime Environment has been installed or not. This is the framework required to run Java application
+4.If the computer does not have one. Download from the following link with correct JRE version that is compatible with your Operation System:
+https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
